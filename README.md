@@ -14,7 +14,7 @@
 
 ## Output
 - `seattle_building_heights_clean.geojson`: contains valid building polygons with `estimated_height`, `estimated_floors`, and `floor_area`
-- `seattle_building_heights_clean_latlon.geojson`: for easy viewing
+- `seattle_building_heights_clean_latlon.geojson`: for easy visualization
 - `preview_map.png`: visual map of estimated building heights
 
 ## Notes
