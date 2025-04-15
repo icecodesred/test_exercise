@@ -13,7 +13,7 @@
 8. Exported result as a GeoPandas-ready GeoJSON
 
 ## Output
-- `seattle_buildings_with_heights.geojson`: contains valid building polygons with `estimated_height`, `estimated_floors`, and `floor_area`
+- `seattle_building_heights_clean.geojson`: contains valid building polygons with `estimated_height`, `estimated_floors`, and `floor_area`
 - `preview_map.png`: visual map of estimated building heights
 
 ## Notes
